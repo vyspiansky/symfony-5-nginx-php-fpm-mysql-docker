@@ -40,4 +40,4 @@ When all containers are ready, open http://localhost to see a Symfony 5 welcome 
 
 ## Keep in mind
 
-To wait until the MySQL container is Online to run migration script, [wait-for-it](https://github.com/vishnubob/wait-for-it) has been used.
+To wait until the MySQL container is `online`, run migration script, [wait-for-it](https://github.com/vishnubob/wait-for-it) has been used.
