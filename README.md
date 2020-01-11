@@ -1,5 +1,7 @@
 # Symfony 5 (NGINX, PHP-FPM and MySQL) with Docker
 
+A Docker development environment for a Symfony 5 application.
+
 Source: https://dev.to/martinpham/symfony-5-development-with-docker-4hj8
 
 GitLab Repository: https://gitlab.com/martinpham/symfony-5-docker
